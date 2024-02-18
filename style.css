@@ -5,3 +5,7 @@
 .inter {
   font-family: "Inter", sans-serif;
 }
+li {
+  display: flex;
+  justify-content: space-between;
+}
